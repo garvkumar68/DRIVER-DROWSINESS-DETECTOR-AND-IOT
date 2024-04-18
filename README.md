@@ -1,1 +1,3 @@
-# DRIVER-DROWSINESS-DETECTOR-AND-IOT
+project:To detect driver drowsiness <br />
+built using: IOT,ML,CNN,tensorflow,openCV
+
